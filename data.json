@@ -1,5 +1,11 @@
 [
    {
+    "name": "Woocommerce",
+    "plugin_name": "woocommerce",
+    "image": "https://ps.w.org/woocommerce/assets/icon.svg?rev=3234504",
+    "version": "9.8.1"
+  },
+   {
     "name": ".well-known File Explorer",
     "plugin_name": "well-known-file-explorer",
     "image": "https://avatars.githubusercontent.com/u/103267284?s=200&v=4",
